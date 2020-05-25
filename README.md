@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+## Coding
 
-You can use the [editor on GitHub](https://github.com/Thetoyking91/school/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Coding is what makes our computers work.
+Without code our computers would just be nothing.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Coding languages
 
-### Markdown
+There are a lot of different coding laungages (such as Python, Ruby, Java,
+Javascript, JSON, HTML, Css, C#, C++, ect).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Variables
 
-```markdown
-Syntax highlighted code block
+Variables are strings used in most coding languages.
+This is how you create a variable in python:
 
-# Header 1
-## Header 2
-### Header 3
+name = value
 
-- Bulleted
-- List
+for example:
 
-1. Numbered
-2. List
+age = 9.
 
-**Bold** and _Italic_ and `Code` text
+Then if you want to show a variable in python you can do:
 
-[Link](url) and ![Image](src)
-```
+print(name)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For example:
 
-### Jekyll Themes
+print(age)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Thetoyking91/school/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The output would look like this:
 
-### Support or Contact
+9
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Terms
+
+Coding has a lot of different terms.
+Here are some examples:
+
+A bug (a problem with code), source code (code that allows something to work), open source (the source code is publicly available) and a filetype (the type of file a file is).
