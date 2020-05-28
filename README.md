@@ -1,9 +1,9 @@
 ## Table of contents
 
-1. (Coding)[#coding]
-2. (Coding Languages)[#coding languages]
-3. (Variables)[#variables]
-4. (Terms)[#terms]
+1. Coding
+2. Coding Languages
+3. Variables
+4. (Terms)[##terms]
 
 ## Coding
 
