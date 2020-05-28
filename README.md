@@ -1,3 +1,10 @@
+## Table of contents
+
+1. (Coding)[#coding]
+2. (Coding Languages)[#coding languages]
+3. (Variables)[#variables]
+4. (Terms)[#terms]
+
 ## Coding
 
 Coding is what makes our computers work.
