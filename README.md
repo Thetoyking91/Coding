@@ -4,6 +4,7 @@
 2. Coding Languages
 3. Variables
 4. Terms
+5. A Quick Quiz
 
 ## Coding
 
@@ -44,3 +45,7 @@ Coding has a lot of different terms.
 Here are some examples:
 
 A bug (a problem with code), source code (code that allows something to work), open source (the source code is publicly available) and a filetype (the type of file a file is).
+
+## A Quick Quiz
+
+I have created a Kahoot (here)[https://kahoot.it/challenge/03079186?challenge-id=ded170e4-d296-4231-ac1c-733d4f20244e_1590677213838] or you can go to kahoot.it and type in 03079186 to try it.
