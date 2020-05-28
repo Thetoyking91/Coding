@@ -48,4 +48,4 @@ A bug (a problem with code), source code (code that allows something to work), o
 
 ## A Quick Quiz
 
-I have created a Kahoot (here)[https://kahoot.it/challenge/03079186?challenge-id=ded170e4-d296-4231-ac1c-733d4f20244e_1590677213838] or you can go to kahoot.it and type in 03079186 to try it.
+I have created a Kahoot [here](https://kahoot.it/challenge/03079186?challenge-id=ded170e4-d296-4231-ac1c-733d4f20244e_1590677213838) or you can go to kahoot.it and type in 03079186 to try it.
