@@ -3,7 +3,7 @@
 1. Coding
 2. Coding Languages
 3. Variables
-4. (Terms)[##terms]
+4. Terms
 
 ## Coding
 
